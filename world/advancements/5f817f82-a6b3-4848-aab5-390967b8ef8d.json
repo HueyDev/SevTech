@@ -1,0 +1,193 @@
+{
+  "triumph:stage0/workblade": {
+    "criteria": {
+      "hasRock": "2021-06-28 08:51:52 -0400",
+      "completedParent": "2021-06-28 08:45:00 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/naturescompass": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstbreak": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:43:58 -0400",
+      "brokeLog1": "2021-06-27 16:06:06 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/chestupgrade": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:50:43 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/fluidbladder": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/spear": {
+    "criteria": {
+      "hasRock": "2021-06-28 08:41:29 -0400",
+      "completedParent": "2021-06-28 08:35:22 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/farmland": {
+    "criteria": {
+      "completedParent": "2021-06-28 08:51:52 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/workstump": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:45:45 -0400",
+      "crafted": "2021-06-27 16:48:54 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/woodhopper1": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:50:43 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/firsttool": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:01:17 -0400",
+      "hasRock": "2021-06-27 16:43:58 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fish": {
+    "criteria": {
+      "completedParent": "2021-06-28 08:41:29 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/handgrind": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/weaponize": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:43:58 -0400",
+      "hasRock": "2021-06-28 08:35:22 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fiber": {
+    "criteria": {
+      "hasRock": "2021-06-27 16:02:17 -0400",
+      "completedParent": "2021-06-27 16:01:17 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/firepit": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:43:58 -0400",
+      "hasRock": "2021-06-28 11:21:35 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/stonetools": {
+    "criteria": {
+      "hasRock": "2021-06-28 08:47:20 -0400",
+      "completedParent": "2021-06-28 08:45:00 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/flintknapp": {
+    "criteria": {
+      "hasRock": "2021-06-27 16:40:57 -0400",
+      "completedParent": "2021-06-27 16:37:13 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/waterstrainer": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/grill": {
+    "criteria": {
+      "completedParent": "2021-06-28 11:21:35 -0400",
+      "hasRock": "2021-06-28 12:32:03 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/root": {
+    "criteria": {
+      "location": "2021-06-27 16:01:17 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/collectplank": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:43:58 -0400",
+      "crafted": "2021-06-27 16:45:45 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/kiln": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/firstchest": {
+    "criteria": {
+      "hasRock": "2021-06-27 16:50:43 -0400",
+      "completedParent": "2021-06-27 16:48:54 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/upgrade": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:43:58 -0400",
+      "hasRock": "2021-06-28 08:45:00 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/saltflats": {
+    "criteria": {
+      "completedParent": "2021-06-28 12:32:03 -0400",
+      "hasRock5": "2021-06-28 19:33:50 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/fire": {
+    "criteria": {
+      "hasRock": "2021-06-27 16:29:00 -0400",
+      "completedParent": "2021-06-27 16:43:58 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/tomahawk": {
+    "criteria": {
+      "completedParent": "2021-06-28 08:35:22 -0400"
+    },
+    "done": false
+  },
+  "triumph:stage0/mesh": {
+    "criteria": {
+      "completedParent": "2021-06-27 16:02:17 -0400",
+      "hasRock": "2021-06-27 16:37:13 -0400"
+    },
+    "done": true
+  },
+  "triumph:stage0/atlas": {
+    "criteria": {
+      "completedParent": "2021-06-28 08:51:52 -0400"
+    },
+    "done": false
+  }
+}
